@@ -18,7 +18,7 @@ public class G
 
 /*
 CTE because inside the SIB  we are using the i value for printing purpose that is
-uses of i is proper, when the uses of any variable is proper, that variable should 
+uses of i is not proper, when the uses of any variable is proper, that variable should 
 be declaration before
 in this example
 first we are using i value for printing purpose.

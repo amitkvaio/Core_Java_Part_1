@@ -2,11 +2,13 @@ package lara;
 
 public class F
 {
-	
+	static int j;
 	static
 	{
 		 
 		i = 50;
+		//System.out.println("static:->"+i);
+		//j=i;
 		 
 	}
 	static int i;// = 5;

@@ -12,7 +12,7 @@ class K
 		System.out.println("test2:" + i);
 		//i=20;
 		this.i=20;
-		//k2.i=20
+		//k1.i=20
 	}
 	public static void main(String[] args)
 	{

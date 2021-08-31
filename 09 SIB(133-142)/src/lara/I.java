@@ -2,7 +2,7 @@ package lara;
 
 public class I
 {
-	static int i = test();
+	
 	static
 	{
 		System.out.println("sib1");
@@ -19,6 +19,7 @@ public class I
 		System.out.println("done");
 		System.out.println(i);
 	}
+	static int i = test();
 	static
 	{
 		System.out.println("sib2");
