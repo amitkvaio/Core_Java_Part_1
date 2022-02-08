@@ -1,17 +1,14 @@
 //217
 package in;
 
-class A
-{
+class A {
 	int i;
 }
 
-class B extends A
-{
+class B extends A {
 	int j;
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		B b1 = new B();
 		System.out.println(b1.i);
 		System.out.println(b1.j);
