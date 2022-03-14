@@ -1,39 +1,31 @@
 
-
 package com.lara;
 
 import java.util.Scanner;
 
-public class A
-{
-	public static void main(String[] args)
-	{
-		
+public class A {
+	public static void main(String[] args) {
+
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the case string:");
 		String s2 = sc.next();
-		switch (s2)
-		{
-			case "xyz":
-			{
-				System.out.println("case xyz");
-				break;
-			}
-			
-			case "abc":
-			{
-				System.out.println("case abc");
-				break;
-			}
-			case "pqr":
-			{
-				System.out.println("case pqr");
-				break;
-			}
-			default:
-			{
-				System.out.println("not available try others");
-			}
+		switch (s2) {
+		case "xyz": {
+			System.out.println("case xyz");
+			break;
+		}
+
+		case "abc": {
+			System.out.println("case abc");
+			break;
+		}
+		case "pqr": {
+			System.out.println("case pqr");
+			break;
+		}
+		default: {
+			System.out.println("not available try others");
+		}
 		}
 		System.out.println("done");
 	}

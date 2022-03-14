@@ -1,7 +1,8 @@
 //395
 package derivedautoupcasting;
-class Manager01  
+class Manager01 extends Object
 {
+	
 	public static void main(String [] args)
 	{
 		Object obj=new Object();

@@ -9,10 +9,10 @@ class W
 }
 class X extends W
 {
-//	void test()
-//	{
-//		System.out.println("from w");
-//	}
+	void test()
+	{
+		System.out.println("from w");
+	}
 	
 	void test(int i)//inside x class test() got overload
 	{
@@ -25,4 +25,5 @@ class X extends W
 		obj.test();
 		obj.test(20);
 	}
+	
 }

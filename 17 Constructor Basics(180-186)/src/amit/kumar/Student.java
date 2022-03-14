@@ -11,7 +11,7 @@ public class Student {
 
 	void display() {
 
-		System.out.println(id + " " + name);
+		System.out.println(this.id + " " + this.name);
 
 	}
 

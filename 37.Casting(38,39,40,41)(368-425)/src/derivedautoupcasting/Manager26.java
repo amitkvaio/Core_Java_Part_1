@@ -11,6 +11,6 @@ class Manager26
 		System.out.println("-----");
 		
 		A a2=new A(); //no casting
-		//B b2=(B)a2;  //CCEX
+//		/B b2=(B)a2;  //CCEX
 	}
 }

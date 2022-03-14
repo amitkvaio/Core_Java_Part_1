@@ -1,10 +1,13 @@
 package first;
 
-class S1
+public class S1
 {
 	void test()
 	{
 		System.out.println("from S");
+	}
+	public String testAjit(String str) {
+		return str;
 	}
 }
 class T1 extends S1

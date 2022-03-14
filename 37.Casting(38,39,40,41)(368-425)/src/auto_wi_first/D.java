@@ -9,5 +9,7 @@ public class D
 		//float f = (float)i;
 		System.out.println("float f = " + f );
 		System.out.println("done");
+		double k=6.80699878585858585965959d;
+		System.out.println(k);
 	}
 }

@@ -1,18 +1,17 @@
 package simple;
+
 import java.io.*;
 
-public class Notepad
-{
+public class Notepad {
 	public static void main(String[] args) {
-	    Runtime rs = Runtime.getRuntime();
-	 
-	    try {
-	      rs.exec("notepad");
-	    }
-	    catch (IOException e) {
-	      System.out.println(e);
-	    }   
-	    }
+		Runtime rs = Runtime.getRuntime();
+
+		try {
+			rs.exec("notepad");
+		} catch (IOException e) {
+			System.out.println(e);
+		}
+	}
 }
 /*
 How to open Notepad through java program: Notepad is a text editor which comes 

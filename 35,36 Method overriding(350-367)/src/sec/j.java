@@ -6,7 +6,7 @@ class J
 }
 class K extends J
 {
-	K test()
+	L test()
 	{
 		return null;
 	}
@@ -14,7 +14,7 @@ class K extends J
 class L extends K
 {
 	//J test()//L OR K
-	K test()
+	L test()
 	{
 		return null;
 	}

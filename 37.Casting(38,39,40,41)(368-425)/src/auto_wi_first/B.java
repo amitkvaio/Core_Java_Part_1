@@ -4,7 +4,7 @@ public class B
 {
 	public static void main(String[] args)
 	{
-		byte b = 10;
+		byte b = 127;
 		//int i = b;
 		int i = (int)b;
 		System.out.println("int i = " + i);
