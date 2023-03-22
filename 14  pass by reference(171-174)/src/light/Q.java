@@ -1,12 +1,10 @@
 
 package light;
 
-class Q
-{
+class Q {
 	int i;
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		Q q1 = new Q();
 		q1.i = 10;
 		Q q2 = q1;

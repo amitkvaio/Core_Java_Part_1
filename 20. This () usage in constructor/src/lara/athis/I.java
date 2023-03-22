@@ -4,8 +4,8 @@ public class I {
 	int value = 100;
 
 	public I() {
-		H i = new H(this);
-		i.display();
+		H h = new H(this);
+		h.display();
 	}
 
 	public static void main(String[] args) {

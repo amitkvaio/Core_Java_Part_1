@@ -11,7 +11,5 @@ public class N {
 		System.out.println(".........");
 		// N m2 = new N();
 		System.out.println(".......");
-
 	}
-
 }

@@ -1,11 +1,8 @@
-enum B2
-{
+enum B2 {
 }
 
-class C
-{
+class C {
 }
 
-interface D
-{
+interface D {
 }

@@ -1,17 +1,15 @@
 package sn;
 
-public class C
-{
+public class C {
 	static int i;
-	static void test()
-	{
+
+	static void test() {
 		System.out.println("from test:" + i);
 	}
 }
-class D
-{
-	public static void main(String[] args)
-	{
+
+class D {
+	public static void main(String[] args) {
 		System.out.println("from main:" + C.i);
 		C.test();
 	}

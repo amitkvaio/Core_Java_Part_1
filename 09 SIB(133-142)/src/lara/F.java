@@ -1,22 +1,17 @@
 package lara;
 
-public class F
-{
+public class F {
 	static int j;
-	static
-	{
-		 
+	static {
 		i = 50;
-		//System.out.println("static:->"+i);
-		//j=i;
-		 
+		// System.out.println("static:->"+i);
+		// j=i;
 	}
 	static int i;// = 5;
-	public static void main(String[] args)
-	{
+
+	public static void main(String[] args) {
 		System.out.println(i);
 	}
-
 }
 /*
 inside SIB we are not using the i value , it is not comes under perfect uses

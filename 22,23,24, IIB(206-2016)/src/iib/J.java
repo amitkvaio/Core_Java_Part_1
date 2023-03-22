@@ -1,9 +1,7 @@
 package iib;
 
-public class J
-{
-	J()
-	{
+public class J {
+	J() {
 		System.out.println("J()");
 	}
 
@@ -11,19 +9,16 @@ public class J
 		System.out.println("J-IIB");
 	}
 
-	J(int i)
-	{
+	J(int i) {
 		this();
 		System.out.println("J(int)");
 	}
 
-	static
-	{
+	static {
 		System.out.println("J-SIB");
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		J obj1 = new J();
 		System.out.println(".........");
 		J obj2 = new J(20);

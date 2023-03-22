@@ -1,11 +1,10 @@
 package kumar;
 
- class C
-{
-	 static int i ;
-	 //int i;
-	static void test()
-	{
+class C {
+	static int i;
+
+	// int i;
+	public static void test() {
 		System.out.println(i);
 	}
 }

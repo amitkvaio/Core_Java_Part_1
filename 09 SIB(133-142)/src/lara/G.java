@@ -1,19 +1,15 @@
 package lara;
 
-public class G
-{
-	
-	static
-	{
-		
+public class G {
+	static {
+
 		//System.out.println(i); //illegal forward reference
 	}
-	static int i ; 
-	public static void main(String[] args)
-	{
+	static int i;
+
+	public static void main(String[] args) {
 		System.out.println("done");
 	}
-
 }
 
 /*

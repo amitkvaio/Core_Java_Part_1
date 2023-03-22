@@ -14,11 +14,10 @@ public class G {
 	void display() {
 		print(this);
 	}
-	
+
 	void print(G g) {
 		System.out.println(g.rollno + " " + g.name + " " + g.fee);
 	}
-	
 
 	public static void main(String args[]) {
 		G s1 = new G(111, "ankit", 5000f);

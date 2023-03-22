@@ -1,37 +1,28 @@
 
-public class J
-{
-	static
-	{
+public class J {
+	static {
 		System.out.println("J-sib1");
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		System.out.println("j-main");
 	}
 
-	static
-	{
+	static {
 		System.out.println("j-sib2");
 	}
 }
 
-class K
-{
-	static
-	{
+class K {
+	static {
 		System.out.println("k-sib1");
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		System.out.println("k-main");
 	}
 
-	static
-	{
+	static {
 		System.out.println("k-sib2");
 	}
-
 }

@@ -1,17 +1,14 @@
 package light;
 
-public class R
-{
+public class R {
 	int i;
 
-	static void test(R r1)// we can change the r1 with any identifier
-	{
+	// we can change the r1 with any identifier
+	static void test(R r1) {
 		r1.i = 20;
-
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		R r1 = new R();
 		r1.i = 10;
 		System.out.println("A:" + r1.i);

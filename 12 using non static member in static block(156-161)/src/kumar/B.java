@@ -1,14 +1,13 @@
 package kumar;
 
-class B
-{
+class B {
 	static void test()
 	// void test()
 	{
 		System.out.println("static");
 	}
-	public static void main(String[] args)
-	{
+
+	public static void main(String[] args) {
 		test();
 		System.out.println("hello world");
 	}

@@ -5,20 +5,17 @@ import lara.com.T1;
 public class E {
 	int i;
 
-	E()
-	{
+	E() {
 		System.out.println("t()");
 		i = 10;
 	}
 
-	E(int i)
-	{
+	E(int i) {
 		this();
 		System.out.println("f(int)");
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		E e1 = new E();
 		System.out.println("...........");
 		E e2 = new E(20);

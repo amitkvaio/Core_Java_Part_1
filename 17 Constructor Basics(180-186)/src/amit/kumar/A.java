@@ -1,13 +1,13 @@
 //180
 package amit.kumar;
 
-class Tenth{
+class Tenth {
 	String studentName;
 	int rollNo;
 	String color;
 	String address;
 	int mobino;
-	
+
 	public Tenth(String studentName, int rollNo, String color, String address, int mobino) {
 		this.studentName = studentName;
 		this.rollNo = rollNo;
@@ -15,24 +15,19 @@ class Tenth{
 		this.address = address;
 		this.mobino = mobino;
 	}
-	
+
 	public static void main(String[] args) {
 		Tenth tenth = new Tenth("Ajit", 1011, "Gora", "Ranch", 1234);
 	}
-	
-	
-	
+
 }
 
-class A
-{
-	A()
-	{
+class A {
+	A() {
 		System.out.println("A()");
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		A a1 = new A();
 		System.out.println("done");
 	}

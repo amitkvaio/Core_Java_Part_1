@@ -10,9 +10,10 @@ public class D {
 		// hello();//same as this.hello()
 		this.hello();
 	}
-	public static void main(String args[]){  
-		D d=new D();  
-		d.how();  
+
+	public static void main(String args[]) {
+		D d = new D();
+		d.how();
 	}
 }
 

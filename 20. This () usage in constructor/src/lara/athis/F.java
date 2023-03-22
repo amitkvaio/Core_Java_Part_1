@@ -19,7 +19,7 @@ public class F {
 	void display() {
 		System.out.println(rollno + " " + name + " " + course + " " + fee);
 	}
-	
+
 	public static void main(String args[]) {
 		F s1 = new F(111, "ankit", "java");
 		F s2 = new F(112, "sumit", "java", 6000f);

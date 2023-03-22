@@ -1,9 +1,7 @@
 package iib;
 
-public class D
-{
-	D()
-	{
+public class D {
+	D() {
 		System.out.println("D()");
 	}
 
@@ -14,8 +12,7 @@ public class D
 		System.out.println("IIB2");
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		D d1 = new D();
 		System.out.println("........");
 		D d2 = new D();

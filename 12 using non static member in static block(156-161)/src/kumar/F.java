@@ -1,14 +1,13 @@
 package kumar;
 
-class F
-{
-	static void test1()//remove static
-	//void test();
+class F {
+	static void test1()// remove static
+	// void test();
 	{
-		
+
 	}
-	static 
-	{
+
+	static {
 		test1();
 	}
 }

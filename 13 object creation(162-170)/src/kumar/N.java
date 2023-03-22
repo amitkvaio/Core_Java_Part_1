@@ -1,11 +1,9 @@
 package kumar;
 
-public class N
-{
+public class N {
 	int i;
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		N n1 = new N();
 		System.out.println(n1.i);
 		N n2 = new N();

@@ -1,18 +1,15 @@
 package iib;
 
-public class E
-{
+public class E {
 	{
-		System.out.println("E-SIB1");
+		System.out.println("E-IIB1");
 	}
 
-	E(int i)
-	{
+	E(int i) {
 		System.out.println("E(int)");
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		E e1 = new E(90);
 		System.out.println(".......");
 		E e2 = new E(30);
@@ -20,6 +17,6 @@ public class E
 	}
 
 	{
-		System.out.println("E-SIB2");
+		System.out.println("E-IIB2");
 	}
 }

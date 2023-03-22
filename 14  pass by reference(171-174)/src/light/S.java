@@ -1,22 +1,18 @@
 package light;
 
-public class S
-{
+public class S {
 	int i;
 
-	static void test1(int x)
-	{
+	static void test1(int x) {
 		System.out.println("x:" + x);
 		x = 10;
 	}
 
-	static void test2(S s1)
-	{
+	static void test2(S s1) {
 		s1.i = 20;
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		S s1 = new S();
 		s1.i = 30;
 		System.out.println("A:" + s1.i);

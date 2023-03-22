@@ -9,7 +9,7 @@ class I {
 
 class J extends I {
 	J() {
-		// super();//by default compiler keep super keyword at the time of compiler.
+		super();//by default compiler keep super keyword at the time of compilation.
 		// calling the default constructor of I class
 		System.out.println("J()");
 	}

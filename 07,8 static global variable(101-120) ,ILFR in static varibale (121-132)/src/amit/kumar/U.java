@@ -1,14 +1,12 @@
 package amit.kumar;
 
-public class U
-{
-	// static int i =j;//Cannot reference a field before it is defined
+public class U {
+	//static int i =j;//Cannot reference a field before it is defined
 	static int j = 10;
 
 	// java does not support the illegal forward reference
 	// static int j =10;
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		// System.out.println(i);
 		System.out.println(j);
 	}

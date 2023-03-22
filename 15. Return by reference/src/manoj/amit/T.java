@@ -10,8 +10,7 @@ public class T
 		return t1;
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		T obj = test();
 		System.out.println(obj.i);
 		System.out.println();

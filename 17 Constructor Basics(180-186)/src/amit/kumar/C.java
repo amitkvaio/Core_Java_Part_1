@@ -1,24 +1,20 @@
 //182
 package amit.kumar;
 
-public class C
-{
+public class C {
 	int i;
 
-	public C()
-	{
+	public C() {
+		System.out.println(i);
 		System.out.println("c()");
 		i = 10;
-
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		C c1 = new C();
 		System.out.println(".............");
 		System.out.println(c1.i);
 	}
-
 }
 //what is the access specifier of constructor?
 // access specifier of the constructor is the class access specifier

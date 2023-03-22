@@ -1,17 +1,15 @@
 package lara;
 
-public class C
-{
-	static 
-	{
+public class C {
+	static {
 		System.out.println("SIB1");
 	}
-	public static void main(String[] args)
-	{
+
+	public static void main(String[] args) {
 		System.out.println("main");
 	}
-	static 
-	{
+
+	static {
 		System.out.println("SIB2");
 	}
 }

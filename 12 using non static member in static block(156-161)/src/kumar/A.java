@@ -1,11 +1,10 @@
 package kumar;
 
-public class A
-{
-	 static int i;  
+public class A {
+	static int i;
+
 	// int J;
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		System.out.println(A.i);
 	}
 }

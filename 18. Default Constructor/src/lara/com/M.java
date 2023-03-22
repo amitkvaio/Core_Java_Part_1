@@ -16,7 +16,5 @@ public class M {
 		System.out.println("........");
 		M n2 = new M(10);
 		System.out.println(".........");
-
 	}
-
 }

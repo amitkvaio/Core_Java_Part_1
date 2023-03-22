@@ -18,7 +18,5 @@ public class T {
 		System.out.println("...........");
 		T t2 = new T(20);
 		System.out.println(t1.i + " ," + t2.i);
-
 	}
-
 }

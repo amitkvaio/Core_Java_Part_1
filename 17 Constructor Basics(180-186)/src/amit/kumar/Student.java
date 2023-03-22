@@ -10,9 +10,7 @@ public class Student {
 	}
 
 	void display() {
-
 		System.out.println(this.id + " " + this.name);
-
 	}
 
 	public static void main(String args[]) {

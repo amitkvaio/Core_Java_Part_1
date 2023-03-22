@@ -1,11 +1,9 @@
 package amit.kumar;
 
-public class O
-{
+public class O {
 	static int i;
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		System.out.println(i);
 		System.out.println(O.i);// optional
 		O.i = 10;

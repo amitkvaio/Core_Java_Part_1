@@ -2,29 +2,30 @@
 package lara.com;
 
 public class T4 {
-	
+
 	int sid;
 	String sname;
 	int marks;
-	
-	public T4(int sid,String sname, int marks) {
-		 this.sid=sid;
-		 this.sname=sname;
-		 this.marks=marks;
+
+	public T4(int sid, String sname, int marks) {
+		this.sid = sid;
+		this.sname = sname;
+		this.marks = marks;
 	}
-	
-	public void assign(int sid,String sname, int marks) {
-		 this.sid=sid;
-		 this.sname=sname;
-		 this.marks=marks;
+
+	public void assign(int sid, String sname, int marks) {
+		this.sid = sid;
+		this.sname = sname;
+		this.marks = marks;
 	}
-	
+
 	void display() {
 		System.out.println("--------------");
-		System.out.println("Name : "+sname);
-		System.out.println("Sid : "+sid);
-		System.out.println("Marks : "+marks);
+		System.out.println("Name : " + sname);
+		System.out.println("Sid : " + sid);
+		System.out.println("Marks : " + marks);
 	}
+
 	public static void main(String[] args) {
 		T4 t4 = new T4(111, "Amit", 70);
 		t4.assign(101, "Ajit", 75);

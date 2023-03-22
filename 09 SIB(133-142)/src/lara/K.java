@@ -15,6 +15,5 @@ public class K {
 		System.out.println(a3 == a4);
 		System.out.println(a5 == a6);
 		System.out.println(128 == 128);
-
 	}
 }

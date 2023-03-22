@@ -9,7 +9,7 @@ class V {
 
 class W extends V {
 	W(int i) {
-		super(2);
+		super(i);
 		System.out.println("W(int)");
 	}
 

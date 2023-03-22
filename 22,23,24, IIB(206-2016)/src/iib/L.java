@@ -1,22 +1,24 @@
 package iib;
-class Parents{
+
+class Parents {
 	{
 		System.out.println("Parents IIB");
 	}
-	
+
 	public Parents() {
 		System.out.println("Parents() - Constructor");
 	}
 }
+
 public class L extends Parents {
 	{
 		System.out.println("FROM Chile (L) IIB");
 	}
-	
+
 	public L() {
 		System.out.println("l() - Constructor");
 	}
-	
+
 	public static void main(String[] args) {
 		new L();
 	}
