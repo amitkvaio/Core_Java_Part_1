@@ -9,5 +9,4 @@ public class O {
 		O.i = 10;
 		System.out.println(O.i);
 	}
-
 }

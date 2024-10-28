@@ -8,4 +8,4 @@ class E {
 	}
 
 }
-//remove the static from i. then it gives the CTE.
+//Remove the static from i. then it gives the CTE.

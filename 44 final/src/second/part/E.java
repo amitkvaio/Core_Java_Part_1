@@ -1,9 +1,8 @@
 package second.part;
-class E
-{
+
+class E {
 	static final int i;
-	static
-	{
-		i=10;
+	static {
+		i = 10;
 	}
 }

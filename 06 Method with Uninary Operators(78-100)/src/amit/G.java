@@ -10,5 +10,4 @@ public class G {
 		test(i);
 		System.out.println("main: " + i);
 	}
-	
 }

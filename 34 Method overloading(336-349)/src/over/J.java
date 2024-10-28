@@ -1,7 +1,6 @@
 package over;
 
-abstract class J
-{
+abstract class J {
 //	abstract void test();
 //	int test()
 //	{

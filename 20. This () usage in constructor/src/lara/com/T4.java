@@ -36,7 +36,6 @@ public class T4 {
 /*
 Constructor  	-  it is initializing instance variable during object creation.
 Method 			-  it is initializing instance variable when we call that method.
-
 */
 
 

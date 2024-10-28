@@ -1,17 +1,15 @@
 package over;
 
-class L
-{
-	void test()
-	{
-		
+class L {
+	void test() {
+
 	}
-	private void test(int i)
-	{
-		
+
+	private void test(int i) {
+
 	}
-	public int test(double d)
-	{
+
+	public int test(double d) {
 		return 10;
 	}
 }

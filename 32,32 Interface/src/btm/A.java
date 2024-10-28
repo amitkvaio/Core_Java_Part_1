@@ -1,12 +1,11 @@
 package btm;
 
-interface A
-{
+interface A {
 
 }
-class B
-{
-	
+
+class B {
+
 }
 //class C implements A extends B {}
 

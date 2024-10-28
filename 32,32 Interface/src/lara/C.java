@@ -1,14 +1,13 @@
 package lara;
-class C
-{
+
+class C {
 
 }
-abstract class E
-{
-	
-}
-interface F
-{
-	
+
+abstract class E {
+
 }
 
+interface F {
+
+}

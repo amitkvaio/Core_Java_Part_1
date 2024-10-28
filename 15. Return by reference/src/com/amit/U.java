@@ -1,4 +1,4 @@
-package manoj.amit;
+package com.amit;
 
 public class U {
 	int i;

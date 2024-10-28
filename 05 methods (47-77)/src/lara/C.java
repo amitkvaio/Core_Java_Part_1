@@ -16,5 +16,4 @@ public class C {
 	public static void test2() {
 		System.out.println("from test");
 	}
-
 }

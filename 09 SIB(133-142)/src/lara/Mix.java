@@ -12,5 +12,4 @@ class Mix {
 		System.out.println("outside block");
 		/// System.out.println(y);
 	}
-
 }

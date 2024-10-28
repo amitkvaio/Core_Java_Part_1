@@ -6,11 +6,11 @@ class V {
 	V() {
 		i = 0;
 	}
-	
+
 	public static void main(String[] args) {
 		V v1 = new V();
-		//v1.i=10;
-		 System.out.println(v1.i);
-		
+		// v1.i=10;
+		System.out.println(v1.i);
+
 	}
 }

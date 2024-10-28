@@ -28,12 +28,12 @@ public class G {
 }
 
 /*
-4) this: to pass as an argument in the method
+5) this: to pass as an argument in the method
 
 The this keyword can also be passed as an argument in the method. 
 It is mainly used in the event handling.
 
-Application of this that can be passed as an argument:
+Application of this can be passed as an argument:
 In event handling (or) in a situation where we have to provide 
 reference of a class to another one. 
 It is used to reuse one object in many methods.

@@ -2,22 +2,22 @@ package lara.com;
 
 public class Th2 {
 	Th2() {
-		System.out.println("DEFOULT CONSTRUCTOR WIHTOUT PARAMETER");
+		System.out.println("Default constructor without parameter.");
 	}
 
 	Th2(int i) {
 		this();
-		System.out.println("TH1");
+		System.out.println("Th2(-)");
 	}
 
 	Th2(int i, String name) {
 		this(10);
-		System.out.println("TH2");
+		System.out.println("Th2(-,-)");
 	}
 
 	Th2(int i, int age, double salary) {
 		this(100, "ajit");
-		System.out.println("TH");
+		System.out.println("Th2(-,-,-)");
 	}
 
 	public static void main(String[] args) {

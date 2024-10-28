@@ -9,7 +9,7 @@ public class J {
 	}
 }
 /*
-6) this keyword can be used to return current class instance
+7) this keyword can be used to return current class instance
 
 We can return this keyword as an statement from the method. 
 In such case, return type of the method must be the class type (non-primitive).

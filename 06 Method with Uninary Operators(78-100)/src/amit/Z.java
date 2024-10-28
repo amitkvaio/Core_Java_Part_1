@@ -35,5 +35,4 @@ public class Z {
 		System.out.println(i);
 		System.out.println(j);
 	}
-
 }

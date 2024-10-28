@@ -1,11 +1,9 @@
-package manoj.amit;
+package com.amit;
 
-public class T
-{
+public class T {
 	int i;
 
-	static T test()
-	{
+	static T test() {
 		T t1 = new T();
 		return t1;
 	}

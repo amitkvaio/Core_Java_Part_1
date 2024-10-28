@@ -14,5 +14,4 @@ public class C {
 /*
 initializer = if the g v getting  a value at the time of declaration 
 	then it is called initializer
-
 */

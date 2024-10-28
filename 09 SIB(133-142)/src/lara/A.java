@@ -12,21 +12,13 @@ public class A {
 
 
 /*
-static initialization block 
+static initialization block (SIB)
 ------------------------------
-it is comes under one of the initializer.
-every SIB  are executing before the main method
-first SIB will be executing then main() will be executed
-before main method SIB will be executing top to bottom
-no matter where SIB is there in the class, after SIB main()
-will be executing .
-before executing main() all SIB will be executing  top to bottom
-
-SIB is executing only once while class is loading
-
-
-
-
-
-
+It is comes under one of the initializer.
+Every SIB  are executing before the main method.
+First SIB will be executing then main() will be executed.
+Before main method SIB will be executing top to bottom
+	no matter where SIB is there in the class, after SIB main() will be executing .
+Before executing main() all SIB will be executing  top to bottom.
+SIB is executing only once while class is loading.
 */

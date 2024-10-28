@@ -1,5 +1,5 @@
 package lara;
-interface B
-{
+
+interface B {
 
 }

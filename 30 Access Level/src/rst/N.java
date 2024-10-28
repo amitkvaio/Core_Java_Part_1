@@ -1,6 +1,5 @@
 package rst;
 
-public class N
-{
+public class N {
 	int i;
 }

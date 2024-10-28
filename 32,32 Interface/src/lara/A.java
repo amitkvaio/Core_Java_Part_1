@@ -1,7 +1,6 @@
 package lara;
 
-abstract class A
-{
+abstract class A {
 	abstract void test1();
 	abstract void test2();
 	abstract void test3();

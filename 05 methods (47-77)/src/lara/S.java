@@ -1,14 +1,12 @@
 package lara;
 
-public class S
-{
-	static int test()
-	{
+public class S {
+	static int test() {
 		System.out.println("from test");
 		return 20;
 	}
-	public static void main(String[] args)
-	{
+
+	public static void main(String[] args) {
 		System.out.println("from main begin");
 		int i = test();
 		System.out.println(i);

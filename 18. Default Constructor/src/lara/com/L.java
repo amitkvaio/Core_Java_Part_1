@@ -16,5 +16,4 @@ public class L {
 		L obj2 = new L(10, 2.0);
 		System.out.println("............n");
 	}
-
 }

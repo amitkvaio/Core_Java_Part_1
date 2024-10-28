@@ -7,8 +7,8 @@ class Y {
 		i = 10;
 	}
 
-	/* Y(int j){
-		 //i=j;
-	 }*/
+	 Y(int j){
+		 i=j;
+	 }
 	
 }

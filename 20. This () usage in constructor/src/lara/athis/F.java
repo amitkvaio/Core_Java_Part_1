@@ -29,7 +29,7 @@ public class F {
 
 }
 /*
-this() constructor call should be used to reuse the constructor from the constructor.
+4) this() constructor call should be used to reuse the constructor from the constructor.
 	It maintains the chain between the constructors i.e. 
 	It is used for constructor chaining.
 Rule: this() Constructor calling statement should be the first statements.

@@ -25,9 +25,7 @@ There are three ways to overload the constructor and let’s see the constructor o
 2. You can overload by changing the data type of arguments.
 3. The order of the parameters of methods.
 
-
-
-
  By changing the number of arguments : above programs belongs to this.
  https://javagoal.com/constructor-overloading-program-in-java/
+
 */

@@ -1,12 +1,12 @@
 package second.part;
 
-class Z5
-{
+class Z5 {
 	final int i;
-	Z5()
-	{
+	
+	Z5()	{
 		//i=10;
 	}
+	
 	{
 		i=10;
 	}

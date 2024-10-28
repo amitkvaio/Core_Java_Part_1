@@ -16,9 +16,6 @@ public class T2 {
 
 	public static void main(String[] args) {
 		T2 T2 = new T2();
-
 		System.out.println(T2.i);
-
 	}
-
 }

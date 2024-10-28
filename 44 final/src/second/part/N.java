@@ -1,6 +1,5 @@
 package second.part;
 
-interface N
-{
-	//int j;
+interface N {
+	// int j;
 }

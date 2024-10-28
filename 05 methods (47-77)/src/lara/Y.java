@@ -1,19 +1,17 @@
 package lara;
 
-public class Y
-{
-	static int test1()
-	{
+public class Y {
+	static int test1() {
 		System.out.println("from test1");
 		return 100;
 	}
-	static int test2()
-	{
+
+	static int test2() {
 		System.out.println("from test2");
 		return test1();
 	}
-	public static void main(String[] args)
-	{
+
+	public static void main(String[] args) {
 		test1();
 		System.out.println(test2());
 		System.out.println(test2() + test1());

@@ -1,6 +1,5 @@
 package second.part;
 
-public class S
-{
+public class S {
 
 }

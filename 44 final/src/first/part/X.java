@@ -1,4 +1,5 @@
 package first.part;
+
 class X {
 	final int i;
 

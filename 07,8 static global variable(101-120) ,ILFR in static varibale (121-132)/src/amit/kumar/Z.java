@@ -8,7 +8,6 @@ public class Z {
 		System.out.println("From test ->i" + i);
 		System.out.println("From test ->j" + j);
 		return j;
-
 	}
 
 	public static void main(String[] args) {

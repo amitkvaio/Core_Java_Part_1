@@ -3,7 +3,7 @@ package light;
 public class R {
 	int i;
 
-	// we can change the r1 with any identifier
+	// We can change the r1 with any identifier
 	static void test(R r1) {
 		r1.i = 20;
 	}
@@ -16,3 +16,7 @@ public class R {
 		System.out.println("B:" + r1.i);
 	}
 }
+/*
+Objects in Java are passed by reference, which means the method test can alter the state of r1 directly. 
+Hence, after the method call, r1.i gets updated to 20.
+*/

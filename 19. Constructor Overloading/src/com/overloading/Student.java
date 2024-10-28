@@ -34,6 +34,5 @@ public class Student {
 
 		Student student2 = new Student("Ram", 2, "MCA", true);
 		student2.studentData();
-
 	}
 }

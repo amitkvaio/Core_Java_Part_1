@@ -1,17 +1,14 @@
 package over;
 
-class O
-{
-	void test()
-	{
-		
+class O {
+	void test() {
+
 	}
 }
-class R extends O
-{
-	void test(int i)
-	{
-		
+
+class R extends O {
+	void test(int i) {
+
 	}
 }
 

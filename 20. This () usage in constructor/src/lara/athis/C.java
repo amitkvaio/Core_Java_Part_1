@@ -23,7 +23,7 @@ public class C {
 	}
 }
 /*
-If local variables(formal arguments) and instance variables are different, 
+1) If local variables(formal arguments) and instance variables are different, 
 	there is no need to use this keyword like in the following program:
 Note:
 It is better approach to use meaningful names for variables. 

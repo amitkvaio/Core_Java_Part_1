@@ -16,6 +16,6 @@ public class D {
 		System.out.println(d1.i);
 		System.out.println(d1.j);
 	}
-
 }
-//through constructor we can initialize any of the non static member
+
+//Through constructor we can initialize any of the non static member

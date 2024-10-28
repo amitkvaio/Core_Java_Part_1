@@ -14,7 +14,5 @@ public class T3 {
 
 	public static void main(String[] args) {
 		T3 t = new T3();
-
 	}
-
 }

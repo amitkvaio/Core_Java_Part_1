@@ -16,6 +16,5 @@ class H {
 		H h2 = new H(90.90);
 		System.out.println(h1.i);
 		System.out.println(h2.i);
-
 	}
 }

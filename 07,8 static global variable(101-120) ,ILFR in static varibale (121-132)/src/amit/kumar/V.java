@@ -4,7 +4,7 @@ public class V {
 	static int i = 10;
 	static int j = i;
 	//static int m = n;
-	// illegal forward reference varibel
+	// illegal forward reference variable
 	static int n = j;
 
 	public static void main(String[] args) {

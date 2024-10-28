@@ -1,22 +1,20 @@
 package over;
 
-class M
-{
-	static void test1()
-	{
-		
+class M {
+	static void test1() {
+
 	}
-	static void test(int i)
-	{
-		
+
+	static void test(int i) {
+
 	}
-	int test(double d)
-	{
+
+	int test(double d) {
 		return 10;
 	}
-	public void test(int i, int j)
-	{
-		
+
+	public void test(int i, int j) {
+
 	}
 }
 /*

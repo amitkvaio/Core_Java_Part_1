@@ -12,7 +12,7 @@ class Parents {
 
 public class L extends Parents {
 	{
-		System.out.println("FROM Chile (L) IIB");
+		System.out.println("FROM Child (L) IIB");
 	}
 
 	public L() {

@@ -15,7 +15,6 @@ public class Employee {
 	public Employee(int id) {
 		this.id = id;
 		this.name = "Not Available";
-
 	}
 
 	// Overloaded constructor with a int parameter and a string
@@ -31,7 +30,7 @@ public class Employee {
 		System.out.println("Name: " + this.name);
 		System.out.println("**************************");
 	}
-	
+
 	public static void main(String[] args) {
 		// Call empty constructor
 		Employee e1 = new Employee();
@@ -44,7 +43,5 @@ public class Employee {
 		// Call two parameter constructor
 		Employee e3 = new Employee(123, "John");
 		e3.display();
-
 	}
-
 }

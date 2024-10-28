@@ -3,11 +3,12 @@ package first.part;
 class N {
 	final int i = 10;
 	N n1 = new N();
-	
+
 	public static void main(String[] args) {
 		N n3 = new N();
 		System.out.println("done");
 	}
+
 	public N() {
 		System.out.println("Contructor -N()");
 	}

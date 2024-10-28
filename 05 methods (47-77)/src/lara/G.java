@@ -17,5 +17,4 @@ public class G {
 		test2();
 		System.out.println("main end");
 	}
-
 }

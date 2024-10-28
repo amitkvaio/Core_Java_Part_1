@@ -13,7 +13,6 @@ public class B {
 		System.out.println(j);
 		System.out.println(b);
 		System.out.println(f);
-		System.out.println("char"+ch);
+		System.out.println("char" + ch);
 	}
-
 }

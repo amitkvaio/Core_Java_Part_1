@@ -1,7 +1,6 @@
 package over;
 
-class K
-{
+class K {
 //	private static void test()
 //	{
 //		System.out.println("from test");
@@ -20,6 +19,4 @@ class K
 inside a class or interface if two methods are having same signature then they are duplicate even those
 have different return type and access modifier.
 compiler does not allow the duplicate method inside the class or interface it will give CTE
-
-
 */

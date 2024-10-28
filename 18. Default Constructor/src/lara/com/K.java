@@ -17,5 +17,4 @@ public class K {
 		K k2 = new K(true);
 		System.out.println("............");
 	}
-
 }

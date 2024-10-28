@@ -33,10 +33,11 @@ class A {
 	}
 }
 
- /*
- constructor should have the same name as class name
- it should not have the return type
- constructor will be called automatically while the object
-  is creating.
-  is is used to initialed the object.
- */
+/*
+
+Constructor should have the same name as class name.
+It should not have the return type.
+Constructor will be called automatically while the object is creating.
+It is used to initialed the object.
+
+*/

@@ -2,7 +2,6 @@ package lara;
 
 interface R {
 	void test1();
-
 	int test2();
 }
 

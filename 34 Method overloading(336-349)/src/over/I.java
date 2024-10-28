@@ -1,10 +1,8 @@
 package over;
 
-class I
-{
-	void test(int x)
-	{
-		x=20;
+class I {
+	void test(int x) {
+		x = 20;
 	}
 //	void test(int y)
 //	{

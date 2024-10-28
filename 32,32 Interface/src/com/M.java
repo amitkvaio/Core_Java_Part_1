@@ -1,14 +1,10 @@
 package com;
 
- class M
-{
-
-}
-class N
-{
-	
+class M {
 }
 
+class N {
+}
 //class O extends M,N{}
 
 

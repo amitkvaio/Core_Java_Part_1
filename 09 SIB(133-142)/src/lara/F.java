@@ -3,6 +3,7 @@ package lara;
 public class F {
 	static int j;
 	static {
+		//System.out.println("SIB ::" + i);
 		i = 50;
 		// System.out.println("static:->"+i);
 		// j=i;
@@ -19,8 +20,6 @@ of i (uses= we are not printing the i value)
 that is why forward reference is legal inside the SIB
 SIB is executing only once while class is loading
 
-i=0,50,5
-
-
+i=0,50,5\
 
 */

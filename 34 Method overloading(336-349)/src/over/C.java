@@ -1,7 +1,6 @@
 package over;
 
 interface C {
-
 	void test1(int i);
 }
 
@@ -13,6 +12,5 @@ interface C {
 
 /*
  * test1(int i) is inherit into the class D , but not implements inside the
- * class D so CLASS should be declared as abstract. cte
- * 
+ * class D so CLASS should be declared as abstract. CTE
  */

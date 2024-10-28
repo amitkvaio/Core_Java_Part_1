@@ -20,5 +20,4 @@ public class T1 {
 		System.out.println(t1.i + " ," + t2.i);
 
 	}
-
 }

@@ -1,9 +1,7 @@
 package default1;
 
-class J
-{
-	public static void main(String[] args)
-	{
+class J {
+	public static void main(String[] args) {
 		F f1 = new F();
 		f1.test1();
 		H h1 = new H();

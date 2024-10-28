@@ -1,10 +1,8 @@
 package kumar;
 
 class F {
-	static void test1()// remove static
 	// void test();
-	{
-
+	static void test1(){ // remove static
 	}
 
 	static {

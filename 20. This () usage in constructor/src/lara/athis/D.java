@@ -21,5 +21,5 @@ public class D {
 2) this: to invoke current class method
 We may invoke the method of the current class by using the this keyword. 
 	If we don't use the this keyword, compiler automatically adds this keyword 
-	while invoking the method. Let's see the example
+	while invoking the method.
 */

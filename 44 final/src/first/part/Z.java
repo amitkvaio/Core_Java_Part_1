@@ -1,4 +1,5 @@
 package first.part;
+
 class Z {
 	final int i;
 
@@ -10,5 +11,3 @@ class Z {
 		i = 10;
 	}
 }
-
-

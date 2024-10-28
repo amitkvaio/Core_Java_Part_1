@@ -1,6 +1,6 @@
 package lara;
-public class A
-{
+
+public class A {
 	int i;
 	protected int j = 500;
 	public int k;

@@ -1,9 +1,8 @@
 package kumar;
 
 class B {
-	static void test()
 	// void test()
-	{
+	static void test() {
 		System.out.println("static");
 	}
 
@@ -12,5 +11,6 @@ class B {
 		System.out.println("hello world");
 	}
 }
-// if we write only void test() then compile will gives the error message
-// bcz we are calling non static method in the static main method.
+
+// If we write only void test() then compile will gives the error message
+// because we are calling non static method in the static main method.

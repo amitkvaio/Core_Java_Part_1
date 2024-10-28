@@ -11,7 +11,6 @@ public class Z3 {
 
 	static int test3(int i) {
 		return i++ + ++i + i;
-
 	}
 
 	public static void main(String[] args) {
@@ -24,6 +23,5 @@ public class Z3 {
 		System.out.println(i);
 		i = test2(++i);
 		System.out.println(i);
-
 	}
 }

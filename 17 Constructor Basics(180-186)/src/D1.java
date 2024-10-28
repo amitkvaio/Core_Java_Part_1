@@ -9,7 +9,6 @@ class D1 {
 	}
 
 	public static void main(String[] args) {
-
 		D d2 = new D();
 		System.out.println("............");
 		D d1 = new D(10);

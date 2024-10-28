@@ -1,7 +1,5 @@
 package lara.athis;
 
-import lara.com.T1;
-
 public class E {
 	int i;
 

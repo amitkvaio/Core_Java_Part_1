@@ -13,5 +13,6 @@ class B {
 		B b2 = new B();
 		System.out.println("..........");
 	}
-//constructor will automatic call while object is creating.
 }
+
+//Constructor will automatic call while object is creating.
